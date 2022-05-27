@@ -9,7 +9,7 @@
   
 ##### Note : 
   - Working of this project can be found out at `https://drive.google.com/file/d/1BC_zTJjIU4dDyMmB937LMPrA_eahIqUf/view?usp=sharing` or can be viewed at bottom of this readme under Working heading.
-  - Hosted at : ``
+  - Hosted at : `https://chronicle-thp.herokuapp.com/`
 #### Bonus Challenge :
 1) **Challenge =** Write API for getting all the documents that a user has access to, the documents that they created and the ones that are shared with them.   
    **Solution :**      
