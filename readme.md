@@ -8,7 +8,8 @@
   - Does not have any permission at all [As the Part of bonus challenge such type of user can view public documents]
   
 ##### Note : 
-  - Working of this project can be found out at `` or can be viewed at bottom of this readme under Working heading.
+  - Working of this project can be found out at `https://drive.google.com/file/d/1BC_zTJjIU4dDyMmB937LMPrA_eahIqUf/view?usp=sharing` or can be viewed at bottom of this readme under Working heading.
+  - Hosted at : ``
 #### Bonus Challenge :
 1) **Challenge =** Write API for getting all the documents that a user has access to, the documents that they created and the ones that are shared with them.   
    **Solution :**      
