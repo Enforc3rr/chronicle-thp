@@ -7,6 +7,11 @@
   - Edit and Share the document [decided by owner]
   - Does not have any permission at all [As the Part of bonus challenge such type of user can view public documents]
   
+#### Tech Stack used : 
+- ExpressJs/Nodejs.
+- MySQL 
+- Sequelize 
+
 ##### Note : 
   - Working of this project can be found out at `https://drive.google.com/file/d/1BC_zTJjIU4dDyMmB937LMPrA_eahIqUf/view?usp=sharing` or can be viewed at bottom of this readme under Working heading.
   - Hosted at : `https://chronicle-thp.herokuapp.com/`
